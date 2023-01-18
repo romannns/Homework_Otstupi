@@ -1,0 +1,19 @@
+h1{
+    color:#34495E;
+}
+.first{
+    background-color: #3498DB;
+}
+.second{
+background-color: #8E44AD;
+}
+.third{
+background-color: #16A085;
+}
+.box{
+    width: 100px;
+}
+.para{
+    padding: 15px 40px;
+    margin: 40px 10px;
+}
